@@ -1,0 +1,19 @@
+* {
+    margin: 50px 0 0 50px;
+    padding: 0;
+}
+
+.azul {
+    background-color: blue;
+    color: #fff;
+}
+
+.vermelho {
+    background-color: red;
+    color: #fff;
+}
+
+.verde {
+    background-color: green;
+    color: #fff;
+}
