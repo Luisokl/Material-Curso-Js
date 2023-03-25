@@ -33,3 +33,9 @@ console.log(terceiraPessoa);
 let [primeironome, segundonome] = nomes;  // neste exemplo pegamos atráves da posição 
 
 console.log(primeironome)
+
+// Podemos criar um array já o desconstruindo desta forma:
+
+let [nome, sobrenome2] = ['Luis', 'Fernando'];
+
+console.log(nome,sobrenome2);
